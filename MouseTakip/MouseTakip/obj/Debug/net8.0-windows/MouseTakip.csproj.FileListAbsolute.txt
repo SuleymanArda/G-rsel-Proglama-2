@@ -1,0 +1,16 @@
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\bin\Debug\net8.0-windows\MouseTakip.exe
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\bin\Debug\net8.0-windows\MouseTakip.deps.json
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\bin\Debug\net8.0-windows\MouseTakip.runtimeconfig.json
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\bin\Debug\net8.0-windows\MouseTakip.dll
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\bin\Debug\net8.0-windows\MouseTakip.pdb
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.Form1.resources
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.AssemblyInfoInputs.cache
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.AssemblyInfo.cs
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.dll
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\refint\MouseTakip.dll
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.pdb
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\MouseTakip.genruntimeconfig.cache
+C:\Users\salih\source\repos\MouseTakip\MouseTakip\obj\Debug\net8.0-windows\ref\MouseTakip.dll
