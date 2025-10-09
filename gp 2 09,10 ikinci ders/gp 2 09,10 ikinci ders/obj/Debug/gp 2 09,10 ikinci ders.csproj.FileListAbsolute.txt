@@ -1,0 +1,11 @@
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\bin\Debug\gp 2 09,10 ikinci ders.exe.config
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\bin\Debug\gp 2 09,10 ikinci ders.exe
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\bin\Debug\gp 2 09,10 ikinci ders.pdb
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp 2 09,10 ikinci ders.csproj.AssemblyReference.cache
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp_2_09_10_ikinci_ders.Form1.resources
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp_2_09_10_ikinci_ders.Properties.Resources.resources
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp 2 09,10 ikinci ders.csproj.GenerateResource.cache
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp 2 09,10 ikinci ders.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp 2 09,10 ikinci ders.exe
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp 2 09,10 ikinci ders.pdb
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp 2 09,10 ikinci ders\gp 2 09,10 ikinci ders\obj\Debug\gp 2 09,10 ikinci ders.exe.config
