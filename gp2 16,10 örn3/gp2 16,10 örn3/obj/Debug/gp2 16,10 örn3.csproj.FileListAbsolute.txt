@@ -1,0 +1,11 @@
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2 16,10 örn3.csproj.AssemblyReference.cache
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2_16_10_örn3.Form1.resources
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2_16_10_örn3.Properties.Resources.resources
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2 16,10 örn3.csproj.GenerateResource.cache
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2 16,10 örn3.csproj.CoreCompileInputs.cache
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\bin\Debug\gp2 16,10 örn3.exe.config
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\bin\Debug\gp2 16,10 örn3.exe
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\bin\Debug\gp2 16,10 örn3.pdb
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2 16,10 örn3.exe
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2 16,10 örn3.pdb
+C:\Users\Osman\Desktop\Görsel Programlama 2\gp2 16,10 örn3\gp2 16,10 örn3\obj\Debug\gp2 16,10 örn3.exe.config
